@@ -1,0 +1,7 @@
+z=1
+for i in "island":
+  z= z+1
+  s = z
+for  i in range(z):
+  s=s+i
+  print(s)
