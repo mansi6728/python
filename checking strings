@@ -1,0 +1,7 @@
+a = "I"
+b=a.isdigit()
+c=a.isalpha()
+d=a.isalnum()
+print(b)
+print(c)
+print(d)
