@@ -1,0 +1,4 @@
+a= "I love india"
+print(a[2:6])
+print(a[2:])
+print(a[::-1])
