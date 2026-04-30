@@ -1,0 +1,4 @@
+#finding max numbers
+a= 67854321876
+b=[int(i) for i in str(a)]
+print(max(b))
